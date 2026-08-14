@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img">
+  <title>Secure Reasoning Lab — square avatar</title>
+  <desc>A blue shield enclosing a branching node tree with one branch highlighted in teal, centered on a white square with padding for use as a Slack workspace icon.</desc>
+
+  <rect x="0" y="0" width="512" height="512" fill="#ffffff"/>
+
+  <path d="M140.5 106 L371.5 106 L371.5 249.1 Q371.5 348.4 256 406 Q140.5 348.4 140.5 249.1 Z" fill="#2f6fed"/>
+
+  <path d="M256 346 L191 277" fill="none" stroke="#ffffff" stroke-width="7" stroke-linecap="round"/>
+  <path d="M191 277 L159 207" fill="none" stroke="#ffffff" stroke-width="7" stroke-linecap="round"/>
+  <path d="M191 277 L224 207" fill="none" stroke="#ffffff" stroke-width="7" stroke-linecap="round"/>
+  <path d="M321 277 L288 207" fill="none" stroke="#ffffff" stroke-width="7" stroke-linecap="round"/>
+  <path d="M256 346 L321 277" fill="none" stroke="#1ad0bd" stroke-width="7" stroke-linecap="round"/>
+  <path d="M321 277 L353 207" fill="none" stroke="#1ad0bd" stroke-width="7" stroke-linecap="round"/>
+
+  <circle cx="256" cy="346" r="16" fill="#ffffff"/>
+  <circle cx="191" cy="277" r="14" fill="#ffffff"/>
+  <circle cx="321" cy="277" r="14" fill="#1ad0bd"/>
+  <circle cx="159" cy="207" r="12" fill="#ffffff"/>
+  <circle cx="224" cy="207" r="12" fill="#ffffff"/>
+  <circle cx="288" cy="207" r="12" fill="#ffffff"/>
+  <circle cx="353" cy="207" r="12" fill="#1ad0bd"/>
+</svg>

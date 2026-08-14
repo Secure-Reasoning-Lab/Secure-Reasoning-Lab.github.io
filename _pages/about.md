@@ -21,5 +21,3 @@ We work at the intersection of large language models, reinforcement learning, an
 ## News
 
 We are **recruiting self-motivated Ph.D. students and postdocs**. If you are interested in large language models and cybersecurity, please see [Join Us](/join/) or email Prof. Yu.
-
-The lab also organizes the inaugural [Cyber Reasoning Challenge at CSAW](https://github.com/Secure-Reasoning-Lab/CRC-CSAW).

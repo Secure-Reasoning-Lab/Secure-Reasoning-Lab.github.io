@@ -13,9 +13,6 @@ We build agents and tools that find bugs and produce patches in real software.
 - **PatchAgent** — a practical program-repair agent that mimics human expertise. USENIX Security 2025 (Long Talk); CSAW 2025 Technical Impact Runner-up. This line of work also supported Team 42-b3yond-bug in the DARPA AI Cyber Challenge.
 - **BandFuzz** — collaborative fuzzing with reinforcement learning. First prize at the SBFT 2024 Fuzzing Competition; later used as a fuzzing component in AIxCC.
 - **Locus** — agentic predicate reasoning for directed fuzzing. ICSE 2026.
-- **CRC@CSAW** — the inaugural Cyber Reasoning Challenge, organized with CSAW.
-
-Related repositories: [CRC-CSAW](https://github.com/Secure-Reasoning-Lab/CRC-CSAW), [oss-crs](https://github.com/Secure-Reasoning-Lab/oss-crs).
 
 ## Secure and Robust LLMs
 

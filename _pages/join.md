@@ -30,4 +30,4 @@ Ph.D. applicants should also follow the [NYUAD graduate admissions](https://nyua
 
 ## PI
 
-More background is on [Jiahao Yu's personal page](https://sherdencooper.github.io/) and in his [CV](/files/CV.pdf).
+More background is on [Jiahao Yu's personal page](https://hubertyoo.github.io/) and in his [CV](/files/CV.pdf).

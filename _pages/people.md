@@ -18,7 +18,7 @@ author_profile: true
       Department of Computer Engineering<br />
       New York University Abu Dhabi</p>
       <p>
-        <a href="https://sherdencooper.github.io/">Personal page</a> ·
+        <a href="https://hubertyoo.github.io/">Personal page</a> ·
         <a href="mailto:jy5951@nyu.edu">jy5951@nyu.edu</a> ·
         <a href="/files/CV.pdf">CV</a>
       </p>

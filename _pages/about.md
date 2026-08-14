@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-The **Secure Reasoning Lab (SRL)** is a research group in the Department of Computer Engineering at [New York University Abu Dhabi](https://nyuad.nyu.edu/), led by [Prof. Jiahao Yu](https://sherdencooper.github.io/).
+The **Secure Reasoning Lab (SRL)** is a research group in the Department of Computer Engineering at [New York University Abu Dhabi](https://nyuad.nyu.edu/), led by [Prof. Jiahao Yu](https://hubertyoo.github.io/).
 
 We work at the intersection of large language models, reinforcement learning, and cybersecurity. The lab builds AI systems that can *reason about software security* — finding vulnerabilities, generating patches, and remaining robust when those same models are attacked or misused.
 

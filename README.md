@@ -4,7 +4,7 @@ Website for the Secure Reasoning Lab at New York University Abu Dhabi.
 
 - Live site: <https://secure-reasoning-lab.github.io/>
 - Organization: <https://github.com/Secure-Reasoning-Lab>
-- PI: [Jiahao Yu](https://sherdencooper.github.io/)
+- PI: [Jiahao Yu](https://hubertyoo.github.io/)
 
 This site is built with the [Academic Pages](https://github.com/academicpages/academicpages.github.io) Jekyll template and hosted on GitHub Pages.
 

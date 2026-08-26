@@ -13,6 +13,7 @@ We build agents and tools that find bugs and produce patches in real software.
 - **PatchAgent** — a practical program-repair agent that mimics human expertise. USENIX Security 2025 (Long Talk); CSAW 2025 Technical Impact Runner-up. This line of work also supported Team 42-b3yond-bug in the DARPA AI Cyber Challenge.
 - **BandFuzz** — collaborative fuzzing with reinforcement learning. First prize at the SBFT 2024 Fuzzing Competition; later used as a fuzzing component in AIxCC.
 - **Locus** — agentic predicate reasoning for directed fuzzing. ICSE 2026.
+- **NSOC** — the [NYU Software Supply Chain Security Operations Center](https://nsoc.engineering.nyu.edu/), co-founded with Justin Cappos. Students serve as year-long liaisons to open-source ecosystems and apply AI tools to vulnerability discovery and patching. [Announcement](https://engineering.nyu.edu/news/nyu-tandon-launches-initiative-close-critical-gap-open-source-security-and-train-students-who).
 
 ## Secure and Robust LLMs
 

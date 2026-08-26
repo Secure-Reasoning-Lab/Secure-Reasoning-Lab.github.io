@@ -18,6 +18,10 @@ We work at the intersection of large language models, reinforcement learning, an
 - **Reasoning and explainability.** Improving, and explaining, the critical steps that LLM and RL systems take on security tasks.
 - **Blockchain security.** Detecting anomalous transactions and securing decentralized systems with learning-based methods.
 
+## Collaborations
+
+Prof. Yu co-founded the [NYU Software Supply Chain Security Operations Center (NSOC)](https://nsoc.engineering.nyu.edu/) at NYU Tandon's Center for Cybersecurity. NSOC embeds master's students in open-source communities such as Python, the Linux kernel, and Rust for a year of real security work, including AI-assisted vulnerability discovery and patching, and publishes annual ecosystem assessments. See the [NYU Tandon announcement](https://engineering.nyu.edu/news/nyu-tandon-launches-initiative-close-critical-gap-open-source-security-and-train-students-who).
+
 ## News
 
 We are **recruiting self-motivated Ph.D. students and postdocs**. If you are interested in large language models and cybersecurity, please see [Join Us](/join/) or email Prof. Yu.

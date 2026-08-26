@@ -22,7 +22,7 @@ author_profile: true
         <a href="mailto:jy5951@nyu.edu">jy5951@nyu.edu</a> ·
         <a href="/files/CV.pdf">CV</a>
       </p>
-      <p>Jiahao Yu received his Ph.D. in Computer Science from Northwestern University, advised by Prof. Xinyu Xing, and his B.S. from Shanghai Jiao Tong University. His research sits at the intersection of AI and security, with a focus on large language models and reinforcement learning for program repair, vulnerability discovery, and robust LLM systems.</p>
+      <p>Jiahao Yu received his Ph.D. in Computer Science from Northwestern University, advised by Prof. Xinyu Xing, and his B.S. from Shanghai Jiao Tong University. His research sits at the intersection of AI and security, with a focus on large language models and reinforcement learning for program repair, vulnerability discovery, and robust LLM systems. He is a co-founder of the <a href="https://nsoc.engineering.nyu.edu/">NYU Software Supply Chain Security Operations Center (NSOC)</a>.</p>
     </td>
   </tr>
 </table>

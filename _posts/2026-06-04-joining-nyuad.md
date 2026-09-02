@@ -7,4 +7,4 @@ tags:
   - recruiting
 ---
 
-Jiahao Yu will join the Department of Computer Engineering at [New York University Abu Dhabi](https://nyuad.nyu.edu/) as a Tenure-Track Assistant Professor. The Secure Reasoning Lab is actively looking for self-motivated Ph.D. students and postdocs. See [Join Us](/join/).
+Jiahao Yu has joined the Department of Computer Engineering at [New York University Abu Dhabi](https://nyuad.nyu.edu/) as a Tenure-Track Assistant Professor and Principal Investigator of the Secure Reasoning Lab. The lab is actively looking for self-motivated Ph.D. students and postdocs. See [Join Us](/join/).
